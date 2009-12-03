@@ -3,7 +3,7 @@ import sys, os
 
 version = '0.1'
 
-setup(name='django-flash-templatetag',
+setup(name='django_flash_templatetag',
       version=version,
       description="convenience templatetag for django-flash package",
       long_description="""\
